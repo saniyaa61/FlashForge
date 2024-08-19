@@ -1,4 +1,4 @@
-"use client";
+
 import { SignIn } from "@clerk/nextjs";
 import { AppBar, Box, Button, Container, Toolbar, Typography, CssBaseline } from "@mui/material";
 import Head from "next/head";
