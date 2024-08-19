@@ -9,7 +9,7 @@ export default function SignUpPage() {
             <AppBar position="static" sx={{ boxShadow: 'none', bgcolor: 'background.paper' }}>
                 <Toolbar sx={{ justifyContent: 'center' }}>
                     <Typography variant="h6" sx={{ flexGrow: 1, fontWeight: 'bold' }}>
-                        Flashcards
+                        FlashForge
                     </Typography>
                 </Toolbar>
             </AppBar>
